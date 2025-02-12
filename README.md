@@ -11,3 +11,5 @@ This is a [Yaak](https://yaak.app) template tag plugin to generate Brazil docume
 - Add location of cloned repository
 - Access the `documents.*` template functions using the autocomplete from any input that
   supports variables.
+
+![example_screenshot](https://github.com/user-attachments/assets/baa247e9-2894-4388-8abd-e4f51d3af8e5)
