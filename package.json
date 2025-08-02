@@ -1,6 +1,11 @@
 {
   "name": "@carlos/br-documents",
   "description": "yaak plugin for generating valid Brazilian document numbers (CPF, RG and CNPJ) perfect for testing and development.",
+  "repository": "https://github.com/carlosqsilva/yaak-plugin-br-documents",
+  "author": {
+    "name": "Carlos Silva",
+    "url": "https://github.com/carlosqsilva"
+  },
   "private": true,
   "version": "0.0.1",
   "scripts": {
